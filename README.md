@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="#">Rocio Cuello</a> 👋</h1>
 </div>
-<img src="">
+<img src="Sesion.png">
 
 ## Connect with me:
 <p align="left">
