@@ -53,7 +53,6 @@ Hola a todos, soy Rocio. Soy de Argentina. Me gradué en el Instituto Superior V
 ### Database
 <!-- Bases de datos que he usado -->
  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-
 <br/>
 
 ### Services
@@ -61,13 +60,11 @@ Hola a todos, soy Rocio. Soy de Argentina. Me gradué en el Instituto Superior V
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
 <img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><br />
-
 <br/>
 
 ### Tools
 <!-- Herramientas que he usado -->
 <img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
-
 <br/>
 
 ### Others
