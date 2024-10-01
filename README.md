@@ -1,7 +1,7 @@
 # Rocio Cuello
 **`Frontend Developer`**
 
-Hola a todos, soy Rocio. Soy de Argentina. Me gradué en el Instituto Superior Villa del Rosario, Córdoba.
+Hola a todos, soy Rocio Cuello. Me gradué en el Instituto Superior Villa del Rosario, Córdoba.
 
 <img src="Fondo.png">
 
@@ -59,12 +59,12 @@ Hola a todos, soy Rocio. Soy de Argentina. Me gradué en el Instituto Superior V
 <!-- Servicios que he usado -->
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220037637-cff5669e-da0e-45de-98f1-cdf5b67fff26.png" />
-<img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><br />
+<!--<img align="left" alt="Firebase" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><br />-->
 <br/>
 
 ### Tools
 <!-- Herramientas que he usado -->
-<img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" />
+<!--<img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/67447840/220038329-e5213d83-ec34-4a82-9647-1b70ff8f2bfe.png" /> -->
 <br/>
 
 ### Others
