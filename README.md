@@ -111,11 +111,20 @@ Hola a todos, soy Rocio Cuello. Me gradué en el Instituto Superior Villa del Ro
   </a>
 </p>
 
-### Others
+### Version Control & Collaboration Tools
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+</p>
+
+### Agile Methodologies
+- [Scrum](https://www.scrum.org/): Enfoque iterativo para la gestión ágil de proyectos y desarrollo de software.
+- [Kanban](https://kanbanize.com/kanban-resources/getting-started/what-is-kanban): Método visual para la gestión del trabajo que optimiza la entrega continua.
+
+### Others
+<p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
